@@ -18,7 +18,8 @@ https://localhost:5001/api/v1/Devices
 
 ## endpoint v2 
 ## data contract ThermostatV2 
-## with extra property [wireless], but still compatible JSON Deserialize <ThermostatV1>
+## with extra property [wireless], 
+## still compatible JSON Deserialize <ThermostatV1>
 https://localhost:5001/api/v2/Devices
 ##
 
